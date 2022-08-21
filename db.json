@@ -1,16 +1,16 @@
 {
-  "posts": [
+  "info": [
     {
       "id": 1,
       "title": "json-server soon to be Villa API",
       "author": "hrdu"
     }
   ],
-  "comments": [
+  "Players": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "displayname": "hrdu",
+      "playerUUID": "6ca4a892-624f-4db6-986d-ee54aca19043"
     }
   ],
   "profile": {
